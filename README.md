@@ -1,14 +1,11 @@
 # Adebola Awokoya 👋🏾
-
-> *mathematician. mechanic. lifter. singer.*
 > 
-> Baltimore, MD
+> Baltimore,MD
 
------
 
 ### 🧠 by day
 
-Applied Math student at Towson figuring out how numbers explain everything —
+Applied Math student at Towson figuring out how numbers explain everything-
 markets, systems, people, motion.
 
 ```python
@@ -29,7 +26,7 @@ me = {
 |🔩 Automotive Mechanic          |systems thinking, patience, getting your hands dirty  |
 |📚 Math Tutor                   |how to explain hard things simply                     |
 |📸 Photographer & Studio Founder|running a business, reading a room, creative direction|
-|🧾 Tax Consultant               |attention to detail, working with real money          |
+|🧾 Tax Preparer                 |attention to detail, working with real money          |
 |🚗 Delivery Driver              |logistics, consistency, showing up                    |
 
 -----
