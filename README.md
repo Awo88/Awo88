@@ -11,7 +11,7 @@ markets, systems, people, motion.
 ```python
 me = {
   "degree":    "B.S. Applied Mathematics, Towson University, Minor: Business Administration
-  "focus":     ["financial modeling", "data analysis", "ML fundamentals"],
+  "focus":     ["Finance", "Analysis", "Management"],
   "stack":     ["Python", "R", "Excel", "learning more..."],
   "next":      "breaking into finance and analytics for real"
 }
