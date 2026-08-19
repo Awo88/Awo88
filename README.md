@@ -1,10 +1,10 @@
-Adebola Awokoya 👋🏾
+# Adebola Awokoya 👋🏾
 
-📍 Baltimore, MD
-🎓 Applied Mathematics @ Towson University
-💼 Business Administration Minor
+📍 Baltimore, MD  
+🎓 Applied Mathematics @ Towson University  
+💼 Business Administration Minor  
 
-⸻
+-----
 
 🧠 by day
 
