@@ -47,15 +47,16 @@ me = {
 
 📫 connect
 
-* GitHub: Awo88
 * Email: awokoyaadebola14@gmail.com
-* Location: Baltimore, Maryland
+* Location: Maryland
 
 ⸻
 
-always learning.
+### always learning.
 
+```python
 while True:
     learn()
     build()
     improve()
+```
