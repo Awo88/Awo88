@@ -10,13 +10,15 @@ Adebola Awokoya 👋🏾
 
 Applied Math student at Towson figuring out how numbers explain markets, risk, businesses, and the decisions behind them.
 
+```python
 me = {
-  "degree":    "B.S. Applied Mathematics, Towson University",
-  "minor":     "Business Administration",
-  "focus":     ["Finance", "Risk", "Analytics"],
-  "stack":     ["Python", "R", "Excel", "SQL"],
-  "next":      "turning quantitative skills into real-world financial decisions"
+    "degree": "B.S. Applied Mathematics, Towson University",
+    "minor": "Business Administration",
+    "focus": ["Finance", "Risk", "Analytics"],
+    "stack": ["Python", "R", "Excel", "SQL"],
+    "next": "turning quantitative skills into real-world financial decisions"
 }
+```
 
 ⸻
 
