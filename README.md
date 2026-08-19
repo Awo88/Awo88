@@ -11,25 +11,25 @@ Adebola Awokoya 👋🏾
 Applied Math student at Towson figuring out how numbers explain markets, risk, businesses, and the decisions behind them.
 
 me = {
-    "degree": "B.S. Applied Mathematics, Towson University",
-    "minor": "Business Administration",
-    "focus": ["Finance", "Risk", "Analytics"],
-    "stack": ["Python", "R", "Excel", "SQL"],
-    "building": "financial models, analytics tools, and quantitative projects",
-    "next": "turning quantitative skills into real-world financial decisions"
+  "degree":    "B.S. Applied Mathematics, Towson University",
+  "minor":     "Business Administration",
+  "focus":     ["Finance", "Risk", "Analytics"],
+  "stack":     ["Python", "R", "Excel", "SQL"],
+  "next":      "turning quantitative skills into real-world financial decisions"
 }
 
 ⸻
 
-🧭 what I’ve done
+### 🔧 what I’ve done
 
-role	what it taught me
-🚢 Sea Logistics Intern — Kuehne+Nagel	financial reconciliation, operational analysis, client service, and working across teams under real deadlines
-🧾 Tax Preparer — Ajay Tax Services	financial-document review, tax compliance, attention to detail, and communicating financial information clearly
-📸 Founder — Ojùmọ̀ House Studio	pricing, P&L management, client acquisition, operations, and building something from the ground up
-📚 Mathematics Tutor	translating complex quantitative ideas into clear, understandable explanations
-🔊 Audio Technician	technical troubleshooting, accuracy, and problem-solving under pressure
-📦 Distribution & Delivery Operations	logistics, efficiency, consistency, and managing time-sensitive work
+| role | what it taught me |
+|---|---|
+| 🚢 Sea Logistics Intern — Kuehne+Nagel | financial reconciliation, operational analysis, client service, and working across teams under real deadlines |
+| 🧾 Tax Preparer — Ajay Tax Services | financial-document review, tax compliance, attention to detail, and communicating financial information clearly |
+| 📸 Photographer & Studio Founder | pricing, P&L management, client acquisition, operations, and building something from the ground up |
+| 📚 Math Tutor | how to explain complex quantitative ideas simply |
+| 🔊 Audio Technician | technical troubleshooting, accuracy, and problem-solving under pressure |
+| 📦 Distribution & Delivery Operations | logistics, efficiency, consistency, and managing time-sensitive work |
 
 ⸻
 
