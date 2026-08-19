@@ -1,51 +1,59 @@
-# Adebola Awokoya 👋🏾
-> 
-> Baltimore,MD
+Adebola Awokoya 👋🏾
 
+📍 Baltimore, MD
+🎓 Applied Mathematics @ Towson University
+💼 Business Administration Minor
 
-### 🧠 by day
+⸻
 
-Applied Math student at Towson figuring out how numbers explain everything-
-markets, systems, people, motion.
+🧠 by day
 
-```python
+Applied Math student at Towson figuring out how numbers explain markets, risk, businesses, and the decisions behind them.
+
 me = {
-  "degree":    "B.S. Applied Mathematics, Towson University, Minor: Business Administration
-  "focus":     ["Finance", "Analytics", "Management"],
-  "stack":     ["Python", "R", "Excel", "learning more..."],
-  "next":      "breaking into finance and analytics for real"
+    "degree": "B.S. Applied Mathematics, Towson University",
+    "minor": "Business Administration",
+    "focus": ["Finance", "Risk", "Analytics"],
+    "stack": ["Python", "R", "Excel", "SQL"],
+    "building": "financial models, analytics tools, and quantitative projects",
+    "next": "turning quantitative skills into real-world financial decisions"
 }
-```
 
------
+⸻
 
-### 🔧 what I’ve done
+🧭 what I’ve done
 
-|role                           |what it taught me                                     |
-|-------------------------------|------------------------------------------------------|
-|🔩 Automotive Mechanic          |systems thinking, patience, getting your hands dirty  |
-|📚 Math Tutor                   |how to explain hard things simply                     |
-|📸 Photographer & Studio Founder|running a business, reading a room, creative direction|
-|🧾 Tax Preparer                 |attention to detail, working with real money          |
-|🚗 Delivery Driver              |logistics, consistency, showing up                    |
+role	what it taught me
+🚢 Sea Logistics Intern — Kuehne+Nagel	financial reconciliation, operational analysis, client service, and working across teams under real deadlines
+🧾 Tax Preparer — Ajay Tax Services	financial-document review, tax compliance, attention to detail, and communicating financial information clearly
+📸 Founder — Ojùmọ̀ House Studio	pricing, P&L management, client acquisition, operations, and building something from the ground up
+📚 Mathematics Tutor	translating complex quantitative ideas into clear, understandable explanations
+🔊 Audio Technician	technical troubleshooting, accuracy, and problem-solving under pressure
+📦 Distribution & Delivery Operations	logistics, efficiency, consistency, and managing time-sensitive work
 
------
+⸻
 
-### 🏋🏾 off the clock
+🌙 off the clock
 
-- In the gym most mornings 
-- Photography and photobooth events across the DMV via **Ojùmọ̀ House Studio**
-- Writing songs when the words show up
-- Deep in Yoruba music and culture
-- Probably watching film breakdowns or market charts
+* 🏋🏾 In the gym most mornings
+* 📸 Photography and photobooth events across the DMV through Ojùmọ̀ House Studio
+* 🎵 Writing songs when the words show up
+* 🪘 Deep in Yoruba music and culture
+* 🎬 Probably watching film breakdowns or market charts
 
------
+⸻
 
-### 📬 let’s connect
+📫 connect
 
-[![Email](https://img.shields.io/badge/email-awokoyaadebola14%40gmail.com-black?style=flat-square&logo=gmail)](mailto:awokoyaadebola14@gmail.com)
-📍 Baltimore, MD — open to remote and DMV-area opportunities
+* GitHub: Awo88
+* Email: awokoyaadebola14@gmail.com
+* Location: Baltimore, Maryland
 
------
+⸻
 
-<p align="center"><i>"Do the work. Trust the math."</i></p>
+always learning.
+
+while True:
+    learn()
+    build()
+    improve()
